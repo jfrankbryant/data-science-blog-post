@@ -2297,7 +2297,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 8879,Planet of the Apes: Colony,William T. Quick,3.62,60086211,9780060086213,eng,288,0.0,24,1,2003-03-25,HarperEntertainment,False
 8880,Planet of the Apes  Volume 1: Old Gods,Ian Edginton,2.62,1569716684,9781569716687,eng,80,0.0,8,2,2002-03-05,Dark Horse Comics,False
 8881,Planet of the Apes: The Fall,William T. Quick,2.92,60086203,9780060086206,eng,288,0.0,53,2,2002-06-04,HarperEntertainment,False
-8889,Return to the Planet of the Apes #2: Escape from Terror Lagoon,William Arrow,3.0,345251679,9780345251671,eng,0,0.0,10,2,1976-04-12,Ballantine Books,True
+8889,Return to the Planet of the Apes #2: Escape from Terror Lagoon,William Arrow,3.0,345251679,9780345251671,eng,192,0.0,10,2,1976-04-12,Ballantine Books,True
 8891,Return to the Planet of the Apes:  Visions from Nowhere,William Arrow,3.33,345251229,9780345251220,eng,183,0.0,12,1,1976-06-01,Ballantine Books,False
 8895,Planet of the Apes: The Human War,Ian Edginton,3.28,184023380X,9781840233803,eng,72,0.0,1,1,2001-07-27,Titan Books Ltd,False
 8901,Battle for the Planet of the Apes,David Gerrold,3.66,891901639,9780891901631,eng,158,0.0,461,10,1973-06-01,Award Books,False
@@ -2305,7 +2305,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 8909,The War of the Worlds,H.G. Wells,3.82,375759239,9780375759239,eng,192,0.0,196425,4549,2002-03-12,Modern Library,False
 8910,The Second World War: A Complete History,Martin  Gilbert,4.2,805076239,9780805076233,eng,928,0.0,919,44,2004-06-01,Holt McDougal,False
 8915,A Short History of World War II,James L. Stokesbury,3.95,688085873,9780688085872,eng,416,0.0,472,41,1980-01-01,William Morrow Paperbacks,False
-8916,The Complete Science Fiction Treasury of H.G. Wells,H.G. Wells,4.14,517052253,9780517052259,eng,0,0.0,45,1,1987-06-24,Random House Value Publishing,False
+8916,The Complete Science Fiction Treasury of H.G. Wells,H.G. Wells,4.14,517052253,9780517052259,eng,1015,0.0,45,1,1987-06-24,Random House Value Publishing,False
 8917,Best Science Fiction Stories of H. G. Wells,H.G. Wells,3.84,486215318,9780486215310,eng,320,0.0,60,4,2011-11-24,Dover Publications,False
 8919,The Invisible Man,H.G. Wells,3.64,439574277,9780439574273,eng,208,0.0,333,23,2004-09-01,Scholastic Paperbacks,False
 8921,The Hound of the Baskervilles,Arthur Conan Doyle,4.11,451528018,9780451528018,eng,256,0.0,191128,4802,2001-07-01,Signet,False
@@ -2602,7 +2602,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 10206,Sounds  Feelings  Thoughts:  Seventy Poems by Wislawa Szymborska,Wisława Szymborska,4.36,691013802,9780691013800,eng,232,0.0,229,22,1981-08-21,Princeton University Press,False
 10208,Miracle Fair: Selected Poems,Wisława Szymborska,4.42,393323854,9780393323856,eng,159,0.0,482,47,2002-11-17,W. W. Norton  Company,False
 10210,Jane Eyre,Charlotte Brontë,4.12,142437204,9780142437209,eng,532,0.0,1409369,27884,2003-02-04,Penguin,False
-10215,The Far Pavilions,M.M. Kaye,4.21,517333414,9780517333419,eng,0,0.0,19,4,1988-12-12,Random House Value Publishing,False
+10215,The Far Pavilions,M.M. Kaye,4.21,517333414,9780517333419,eng,1000,0.0,19,4,1988-12-12,Random House Value Publishing,False
 10217,Death in Kashmir,M.M. Kaye,3.95,312263104,9780312263102,eng,256,0.0,1511,104,2000-12-01,St. Martins Press-3PL,False
 10219,The Sun in the Morning: My Early Years in India and England,M.M. Kaye,4.22,312049994,9780312049997,eng,454,0.0,249,39,1990-09-01,St. Martin's Press,False
 10220,Death in the Andamans,M.M. Kaye,3.93,312252811,9780312252816,eng,272,0.0,845,57,2000-02-11,Minotaur Books,False
@@ -3608,7 +3608,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 13836,Wild Magic (Immortals  #1),Tamora Pierce,4.32,1416903437,9781416903437,eng,362,0.0,61677,1448,2005-06-01,Simon Pulse,True
 13837,Lioness Rampant (Song of the Lioness  #4),Tamora Pierce,4.28,689878575,9780689878572,eng,384,0.0,72386,1230,2005-01-01,Simon Pulse,True
 13839,The Botany of Desire: A Plant's-Eye View of the World,Michael Pollan,4.06,375760393,9780375760396,eng,297,0.0,39680,2780,2002-05-28,Random House Trade Paperbacks,False
-13842,The Botany of Desire: A Plant's-Eye View of the World,Michael Pollan,4.06,1596590939,9781596590939,eng,0,0.0,117,36,2007-05-21,Your Coach Digital,False
+13842,The Botany of Desire: A Plant's-Eye View of the World,Michael Pollan,4.06,1596590939,9781596590939,eng,271,0.0,117,36,2007-05-21,Your Coach Digital,False
 13845,More Milly Molly Mandy,Joyce Lankester Brisley,4.12,753453347,9780753453346,eng,224,0.0,846,17,1999-09-01,Kingfisher,False
 13847,Essence and Alchemy: A Natural History of Perfume,Mandy Aftel,4.09,1586857029,9781586857028,eng,256,0.0,459,37,2007-01-31,Gibbs Smith,False
 13853,The Lion  the Witch and the Wardrobe,C.S. Lewis,4.21,60530839,9780060530839,eng,112,0.0,381,19,2003-11-04,HarperCollins,False
@@ -5370,7 +5370,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 21626,Not of Woman Born,Constance Ash,3.82,451456815,9780451456816,eng,288,0.0,60,11,1999-03-01,Roc,False
 21629,Worlds Apart (Worlds 2),Joe Haldeman,3.69,380716828,9780380716821,eng,227,0.0,485,8,1992-06-28,Avon Books (AvoNova),False
 21638,Train_man  Volume 3 (Train_man),Hidenori Hara,3.94,1421508508,9781421508504,eng,200,0.0,102,15,2007-02-13,VIZ Media LLC,False
-21665,The Best American Mystery Stories 2004,Nelson DeMille,3.55,618497420,9780618497423,eng,0,0.0,3,0,2004-10-14,Mariner Books,False
+21665,The Best American Mystery Stories 2004,Nelson DeMille,3.55,618497420,9780618497423,eng,432,0.0,3,0,2004-10-14,Mariner Books,False
 21671,Mystic River,Dennis Lehane,4.18,60584750,9780060584757,eng,416,0.0,109447,2859,2001-02-01,William Morrow Paperbacks,False
 21673,Mystic River,Dennis Lehane,4.18,593047508,9780593047507,eng,401,0.0,44,3,2001-03-05,Bantam Press,False
 21682,Coronado: Stories,Dennis Lehane,3.38,006113967X,9780061139673,eng,240,0.0,2907,261,2006-08-08,William Morrow,False
@@ -5598,7 +5598,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 22633,The Trial of Queen Caroline: The Scandalous Affair that Nearly Ended a Monarchy,Jane Robins,3.39,743255909,9780743255905,eng,384,0.0,52,8,2006-08-07,Free Press,False
 22649,Bookends,Jane Green,3.72,767907817,9780767907811,eng,368,0.0,37153,822,2003-05-27,Broadway Books,False
 22656,Jemima J.: For those who love Faking Friends and My Sweet Revenge by Jane Fallon,Jane Green,3.65,140276904,9780140276909,eng,450,0.0,683,66,1998-08-06,Penguin Books,False
-22669,Open House,Elizabeth Berg,3.7,613997638,9780613997638,eng,0,0.0,0,0,2001-05-01,Turtleback Books,False
+22669,Open House,Elizabeth Berg,3.7,613997638,9780613997638,eng,241,0.0,0,0,2001-05-01,Turtleback Books,False
 22677,Feeling Better  Getting Better  Staying Better: Profound Self-Help Therapy for Your Emotions,Albert Ellis,3.76,1886230358,9781886230354,eng,272,0.0,51,6,2001-06-01,Impact,False
 22680,American Sphinx: The Character of Thomas Jefferson,Joseph J. Ellis,3.92,679764410,9780679764410,eng,440,0.0,20178,590,1998-04-07,Vintage,False
 22681,Line Of Vision,David Ellis,3.81,425183769,9780425183762,eng,448,0.0,609,82,2002-02-05,G.P. Putnam's Sons,False
@@ -6606,7 +6606,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 27356,Black Meets White,Justine Korman Fontes,3.5,763619337,9780763619336,eng,24,0.0,50,11,2005-07-12,Candlewick Press,False
 27363,Back Bay (Peter Fallon  #1),William Martin,3.91,446363162,9780446363167,eng,532,0.0,1614,173,1992-07-01,Grand Central Publishing,True
 27368,Letters from the Bay of Islands: The Story of Marianne Williams,Marianne Williams,3.72,143019295,9780143019299,eng,270,0.0,24,2,2004-01-01,Penguin Books,False
-27385,"Since ""Silent Spring""",Frank  Graham,3.78,449231410,9780449231418,eng,0,0.0,1,0,1974-06-12,Fawcett,False
+27385,"Since ""Silent Spring""",Frank  Graham,3.78,449231410,9780449231418,eng,288,0.0,1,0,1974-06-12,Fawcett,False
 27397,A Civil Action,Jonathan Harr,3.97,679772677,9780679772675,eng,512,0.0,13628,754,1996-08-27,Vintage,False
 27398,The Lost Painting,Jonathan Harr,3.74,375759867,9780375759864,eng,320,0.0,24619,765,2006-11-07,Random House Trade Paperbacks,False
 27399,The Lost Painting,Jonathan Harr,3.74,375431535,9780375431531,eng,368,0.0,5,0,2005-11-01,Random House Large Print,False
@@ -8327,7 +8327,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 34672,Shattered Dance,Caitlin Brennan,3.91,037380248X,9780373802487,eng,442,0.0,426,12,2006-09-26,Luna Books,False
 34678,The Shattered Land (Eberron: The Dreaming Dark  #2),Keith Baker,3.65,786938218,9780786938216,eng,374,0.0,515,21,2006-02-07,Wizards of the Coast,True
 34687,Koko's Kitten,Francine Patterson,4.3,590444255,9780590444255,eng,32,0.0,963,92,1987-06-01,Scholastic Press,False
-34706,13th Directorate,Barry Chubin,2.62,804104557,9780804104555,eng,0,0.0,8,1,1989-02-28,Ivy Books,False
+34706,13th Directorate,Barry Chubin,2.62,804104557,9780804104555,eng,341,0.0,8,1,1989-02-28,Ivy Books,False
 34708,The Aviators (Brotherhood of War  #8),W.E.B. Griffin,4.25,515100536,9780515100532,eng,464,0.0,2567,33,1989-05-01,G.P. Putnam's Sons,True
 34760,All I Really Need to Know I Learned in Kindergarten,Robert Fulghum,4.03,034546639X,9780345466396,eng,240,0.0,17354,650,2004-05-04,Ballantine Books,False
 34762,Legends  Lies  Cherished Myths of World History,Richard Shenkman,3.47,60922559,9780060922559,eng,320,0.0,222,16,2011-11-29,William Morrow Paperbacks,False
@@ -8363,7 +8363,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 34915,Running with the Demon (Word & Void #1),Terry Brooks,3.97,1857236076,9781857236071,eng,503,0.0,72,3,1998-07-16,Orbit Books,True
 34918,The Voyage of the Jerle Shannara Trilogy (Voyage of the Jerle Shannara  #1-3),Terry Brooks,4.27,1416502041,9781416502043,eng,1260,0.0,87,4,2005-05-01,Pocket Books,True
 34921,The Black Unicorn (Magic Kingdom of Landover #2),Terry Brooks,3.77,345335287,9780345335289,eng,307,0.0,630,14,1988-08-12,Del Rey Books,True
-34938,First King of Shannara (Shannara Prequel),Terry Brooks,3.96,517199963,9780517199961,eng,0,0.0,1,0,1996-03-19,Random House Value Publishing,False
+34938,First King of Shannara (Shannara Prequel),Terry Brooks,3.96,517199963,9780517199961,eng,398,0.0,1,0,1996-03-19,Random House Value Publishing,False
 34939,The Best of Lester Del Rey,Lester del Rey,3.79,034543949X,9780345439499,eng,320,0.0,76,9,2000-06-06,Del Rey,False
 34941,The Phantom Menace (Star Wars: Novelizations  #1),Terry Brooks,3.57,99409968,9780099409960,eng,336,0.0,13158,455,2000-03-02,Arrow,True
 34985,The Deming Management Method,Mary Walton,3.95,1852521414,9781852521417,eng,254,0.0,192,11,1992-10-01,Management Books 2000,False
@@ -8488,7 +8488,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 35476,Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux,Black Elk,4.13,803283857,9780803283855,eng,270,0.0,10390,447,2004-11-01,Bison Books,False
 35479,Ring of Fire (Ring of Fire Anthology  #1),Eric Flint,3.9,1416509089,9781416509080,eng,722,0.0,1970,64,2005-10-01,Baen,True
 35481,1635: The Cannon Law (Assiti Shards  #8),Eric Flint,3.76,1416509380,9781416509387,eng,420,0.0,1336,35,2006-09-26,Baen,True
-35485,Five Rings of Fire (Able Team  #11),Tom Arnett,3.64,373612117,9780373612116,eng,0,0.0,39,2,1984-02-23,Gold Eagle,True
+35485,Five Rings of Fire (Able Team  #11),Tom Arnett,3.64,373612117,9780373612116,eng,192,0.0,39,2,1984-02-23,Gold Eagle,True
 35488,Cash,Johnny Cash,4.07,60727535,9780060727536,eng,310,0.0,17107,566,2003-10-07,HarperOne,False
 35489,Johnny Cash,Michael Streissguth,3.79,306813688,9780306813689,eng,334,0.0,285,25,2006-09-04,Da Capo Press,False
 35491,Controversy Creates Cash,Eric Bischoff,3.62,141652729X,9781416527299,eng,389,0.0,1154,56,2006-10-17,World Wrestling Entertainment Books,False
@@ -8889,7 +8889,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 37877,Mandala Sand Art Kit,Walter Foster Creative Team,1.0,1560107669,9781560107668,eng,8,0.0,1,0,2004-01-01,Walter Foster Publishing,False
 37892,The Death Shift: The True Story of Nurse Genene and the Texas Baby Murders,Peter Elkind,3.78,451401964,9780451401960,eng,400,0.0,118,11,1990-05-01,Onyx,False
 37900,Turn of the Cards (Wild Cards  #12),George R.R. Martin,3.69,553561529,9780553561524,eng,432,0.0,567,18,1993-01-01,Spectra,True
-37902,Turn of the Cards,Georgina Grey,3.0,449239691,9780449239698,eng,0,0.0,3,1,1979-05-12,Fawcett Coventry,False
+37902,Turn of the Cards,Georgina Grey,3.0,449239691,9780449239698,eng,221,0.0,3,1,1979-05-12,Fawcett Coventry,False
 37905,Dr. Seuss (First Biographies),Cheryl Carlson,4.33,736850910,9780736850919,eng,24,0.0,14,1,2005-01-01,Capstone Press,False
 37909,Go Jump in the Pool! (Macdonald Hall  #2),Gordon Korman,4.16,590442090,9780590442091,eng,192,0.0,1419,38,1991-01-01,Scholastic,True
 37947,The Pusher (87th Precinct  #3),Ed McBain,3.9,752857932,9780752857930,eng,192,0.0,1098,75,2003-07-03,Orion Books,True
@@ -9510,7 +9510,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 41261,The White Widow,Jim Lehrer,3.04,189162041X,9781891620416,eng,224,0.0,181,19,2000-05-19,PublicAffairs,False
 41264,The Franklin Affair,Jim Lehrer,3.12,345468031,9780345468031,eng,208,0.0,144,25,2006-06-13,Random House Trade,False
 41270,Short List (One-Eyed Mack  #5),Jim Lehrer,4.09,399136657,9780399136658,eng,224,0.0,23,3,1992-02-06,Putnam Publishing Group,True
-41273,Fine Lines (One-Eyed Mack  #6),Jim Lehrer,3.23,517164353,9780517164358,eng,0,0.0,17,4,1995-11-19,Random House Value Publishing,True
+41273,Fine Lines (One-Eyed Mack  #6),Jim Lehrer,3.23,517164353,9780517164358,eng,241,0.0,17,4,1995-11-19,Random House Value Publishing,True
 41278,Kick the Can (One-Eyed Mack  #1),Jim Lehrer,3.85,1571780599,9781571780591,eng,223,0.0,77,10,1997-08-01,Council Oak Books,True
 41304,Strangers from a Different Shore: A History of Asian Americans,Ronald Takaki,4.13,316831301,9780316831307,eng,640,0.0,888,45,1998-09-23,Back Bay Books,False
 41315,Syrup,Max Barry,3.88,140291873,9780140291872,eng,304,0.0,4715,303,2000-07-01,New York : Penguin Books,False
@@ -10191,7 +10191,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 44735,The Elements of Typographic Style,Robert Bringhurst,4.24,881792063,9780881792065,eng,352,0.0,7564,206,2004-09-27,Hartley & Marks Publishers,False
 44737,The Elements of Visual Style: The Basics of Print Design for Every PC and Mac User,Robert W. Harris,3.21,618772456,9780618772452,eng,177,0.0,14,3,2007-05-01,Houghton Mifflin Harcourt,False
 44739,Graphic Design Solutions,Robin Landa,4.04,1401881548,9781401881542,eng,403,0.0,147,12,2005-04-27,Delmar Thomson Learning,False
-44748,The Mask of the Enchantress,Victoria Holt,3.85,449210847,9780449210840,eng,0,0.0,21,1,1981-10-12,Ivy Books,False
+44748,The Mask of the Enchantress,Victoria Holt,3.85,449210847,9780449210840,eng,318,0.0,21,1,1981-10-12,Ivy Books,False
 44749,Secret for a Nightingale,Victoria Holt,3.82,449212963,9780449212967,eng,396,0.0,1873,34,1987-10-12,Ivy Books,False
 44758,The Silk Vendetta,Victoria Holt,3.82,449215482,9780449215487,eng,373,0.0,2261,47,1988-11-27,Ivy Books,False
 44759,Curse Of The Kings,Victoria Holt,3.76,044920068X,9780449200681,eng,304,0.0,15,1,1985-06-12,Fawcett Crest Books,False
