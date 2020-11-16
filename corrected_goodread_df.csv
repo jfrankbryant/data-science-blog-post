@@ -7597,7 +7597,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 31365,With No One as Witness (Inspector Lynley  #13),Elizabeth  George,4.04,60545615,9780060545611,eng,784,0.0,9952,529,2006-02-28,Harper,True
 31366,Deception on His Mind (Inspector Lynley  #9),Elizabeth  George,4.05,553575090,9780553575095,eng,716,0.0,8028,289,1998-10-06,Bantam Books,True
 31371,Becoming a Woman of Beauty and Strength: Esther,Elizabeth George,4.27,736904891,9780736904896,eng,160,0.0,80,14,2001-01-01,Harvest House Publishers,False
-31373,In Pursuit of the Proper Sinner (Inspector Lynley  #10),Elizabeth  George,4.1,553575104,9780553575101,eng,718,0.0,10608,295,2000-10-31,Bantam Books,True
+31373,In Pursuit of the Proper Sinner (Inspector Lynley  #10),Elizabeth  George,4.1,553575104,9780553575101,eng,718,0.0,10608,295,,Bantam Books,True
 31378,A Woman's High Calling Growth and Study Guide,Elizabeth George,4.15,736904948,9780736904940,eng,160,0.0,13,1,2001-08-15,Harvest House Publishers,False
 31382,Living with Passion and Purpose: Luke (Woman After God's Own Heart),Elizabeth George,4.0,736908161,9780736908160,eng,160,0.0,22,4,2005-09-15,Harvest House Publishers,False
 31384,Loving God with All Your Mind,Elizabeth George,4.43,736913823,9780736913829,eng,304,0.0,1488,77,2005-01-01,Harvest House Publishers,False
@@ -10435,8 +10435,7 @@ bookID,title,author,average_rating,isbn,isbn13,language_code,num_pages,audio_hrs
 18019,The Code of the Woosters: Jeeves to the Rescue,P.G. Wodehouse,4.36,1572705485,9781572705487,eng,0,7.0,172,26,2006-09-07,AudioGO,False
 18022,Jeeves and the Mating Season (Jeeves  #9),P.G. Wodehouse,4.26,1572703199,9781572703193,eng,0,7.0,109,22,2003-04-07,AudioGO,True
 18140,Romeo and Juliet,William Shakespeare,3.74,521625629,9780521625623,eng,0,3.0,18,0,1997-10-23,Naxos Audiobooks,False
-19787,The Goon Show: Moriarty Where Are You?,NOT A BOOK,4.43,563388544,9780563388548,eng,0,2.0,0,0,2005-03-30,BBC Physical Audio,False
-19788,The Goon Show  Volume 11: He's Fallen in the Water!,NOT A BOOK,5.0,563388323,9780563388326,eng,0,2.0,2,0,1995-10-02,BBC Physical Audio,False
+19093,Middlemarch,George Eliot,3.96,141804513,9780141804514,eng,0,6.0,50,14,2003-01-28,Penguin Audio UK,False
 20097,The Sea,John Banville,3.51,739333771,9780739333778,eng,0,6.75,42,12,2006-08-15,Random House Audio,False
 20468,Cover Her Face (Adam Dalgliesh #1),P.D. James,3.93,563528273,9780563528272,eng,0,2.0,17,4,2002-05-07,BBC Physical Audio,True
 21352,Icebound,David Axton,3.76,739341413,9780739341414,eng,0,9.0,46,12,2007-03-06,Random House Audio,False
